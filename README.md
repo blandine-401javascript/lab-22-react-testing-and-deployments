@@ -1,1 +1,1 @@
-# lab-22-react-testing-and-deployments
+# lab-22-react-testing-and-deployment

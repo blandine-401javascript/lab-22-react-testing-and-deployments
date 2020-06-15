@@ -23,7 +23,7 @@ this App is a Counting Game App, you use the minus or the plus sign to decrease 
 
 
 -  App deployed siteS
-- Opem esach link to see Counting Game App  
+- Opem each link to see Counting Game App  
 
 [AWS S3](http://counter-game-app.s3-website-us-west-2.amazonaws.com/)
 
